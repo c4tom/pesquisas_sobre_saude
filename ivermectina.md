@@ -1,5 +1,11 @@
 # Pesquisas realizadas sobre Ivermectina
 
+* Mapa - [Adoção global de ivermectina para COVID-19](https://ivmstatus.com/) - Inglês
+
+## Pesquisas
+
+* [Banco de dados em tempo real e meta-análise de 588 estudos COVID-19](https://c19early.com/), Inglês
+
 
 
 ## 5 ações comprovadas
