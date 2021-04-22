@@ -26,6 +26,6 @@ Está na bula
 Tenham sempre em casa, esse remédio
 
 ### Referências (estudos de casos, e entrevistas)
-* [Ivermectina ou Vacina? - Estudo de Caso com a Dra. Lucy Kerr](https://youtu.be/5SOSBgUU8to?t=1153) - Oct 20, 2020
+* Youtube, [Ivermectina ou Vacina? - Estudo de Caso com a Dra. Lucy Kerr](https://youtu.be/5SOSBgUU8to?t=1153) - Oct 20, 2020
    - [Lucy Kerr](./md/Lucy_Kerr-SP-20963.md)
-* [Saiba como a Ivermectina atua no seu organismo](https://www.youtube.com/watch?v=4_b3-fkocPA) - 30-03-2021
+* Youtube, [Saiba como a Ivermectina atua no seu organismo](https://www.youtube.com/watch?v=4_b3-fkocPA) - 30-03-2021
