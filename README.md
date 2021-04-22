@@ -1,5 +1,5 @@
-# pesquisas_sobre_saude
-Algumas pesquisas realizadas sobre Hidroxi-cloroquina e Ivermectina
+# Pesquisas sobre Ivermectina e Hidroxicloroquina
+Algumas pesquisas realizadas sobre Hidroxicloroquina e Ivermectina
 
 * [Ivermectina](ivermectina.md)
 * [Hidroxicloroquina](hidroxicloroquina.md)
