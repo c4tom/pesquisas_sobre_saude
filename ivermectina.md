@@ -34,4 +34,5 @@ Tenham sempre em casa, esse remédio
 ### Referências (estudos de casos, e entrevistas)
 * Youtube, [Ivermectina ou Vacina? - Estudo de Caso com a Dra. Lucy Kerr](https://youtu.be/5SOSBgUU8to?t=1153) - Oct 20, 2020
    - [Lucy Kerr](./md/Lucy_Kerr-SP-20963.md)
+   - [2021: IVERMECTINA OU VACINA O QUE TOMAR? com Dra. Lucy Kerr & Fernando Beteti](https://www.youtube.com/watch?v=1oDvsC-ct5w), entrevista completa, 02/03/2021
 * Youtube, [Saiba como a Ivermectina atua no seu organismo](https://www.youtube.com/watch?v=4_b3-fkocPA) - 30-03-2021
